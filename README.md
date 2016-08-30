@@ -1,2 +1,2 @@
 # LaptopAlex
-Test for Thesis 
+Test for Thesis amana
